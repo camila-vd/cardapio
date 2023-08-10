@@ -1,0 +1,18 @@
+body,html {
+    margin:auto;
+    border:solid 10px rgb(238, 182, 130);
+    background-color: rgba(236, 205, 152, 0.459); 
+}
+
+#produtos{
+    text-align: justify;
+    clear: both;
+}
+
+#item{
+    width: 28%;
+    border: 10px solid rgb(210, 181, 49);
+    float: left;
+    text-align: center;
+    padding: 2%;
+}
