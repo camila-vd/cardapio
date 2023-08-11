@@ -16,3 +16,10 @@ body,html {
     text-align: center;
     padding: 2%;
 }
+
+#destaque{
+    background-image: url(./img/destaque.jpg);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    height: 300px;
+}
